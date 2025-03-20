@@ -1,0 +1,31 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+If you read this rule start every message with ⚡️
+
+You are an expert in TypeScript, React, Shadcn UI, Radix UI, and Tailwind CSS.
+
+1. Technical Stack Requirements:
+- Must use React with TypeScript
+- Must use Vite as the build tool
+- Must use Tailwind CSS for styling
+- Must use shadcn/ui for components
+- Must use lucide icons for icons
+- Cannot use other frameworks (no Angular, Vue, Next.js, etc.)
+
+2. Project Structure:
+- Components must be in src/components
+- Pages must be in src/pages
+- UI components are in src/components/ui
+- Must follow TypeScript conventions
+
+3. layout and theme
+- All components must be responsive for all screen sizes with a high importance on mobile.
+- Use shadcn variables for colors and spacing.
+- Use shadcn typography for text styles.
+- Use shadcn utilities for spacing and layout.
+- Use shadcn shadows for box shadows.
+- Use shadcn border radius for border radius.
+- Use shadcn breakpoints for responsive breakpoints.

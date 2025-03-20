@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const videoModal = document.getElementById('video-modal');
     const closeModal = document.querySelector('.close-modal');
     const loomEmbedWrapper = document.getElementById('loom-embed-wrapper');
-    const videoEmbedUrl = "LOOM_VIDEO_URL_HERE"; // Replace with your Loom video URL
+    const videoEmbedUrl = "https://www.loom.com/embed/29eed89d4efe432bad61e645b52228bf?sid=9f54613e-33b1-42d0-bf08-afa673cd5b53"; // Replace with your Loom video URL
     
     // Open modal
     videoBtn.addEventListener('click', () => {
